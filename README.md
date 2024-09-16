@@ -1,5 +1,5 @@
 # Introduction
-Heres Some Code I Have Written for Class or Personal Use
+Here is some code I have written for class or personal use
 
 
 
@@ -26,7 +26,7 @@ make
 
 ## Java
 
-All the Java files I edited are in the "src" folder. All of the code can be runned through VSCode.
+All the Java files I edited are in the "src" folder. All of the code can be run through VSCode.
 
 To run through the terminal:
 
@@ -38,9 +38,9 @@ To run through the terminal:
 
 **MusicPlaylist:** An ArrayList to hold all the playlists in a library and a Circular Linked List to hold all the songs in a playlist.
 
-**RisingTides:** Uses an Weighted UnionFind algorithm to simulate floods on a terrain.
+**RisingTides:** Uses a Weighted UnionFind algorithm to simulate floods on a terrain.
 
-**HungerGames:**  Implements a Binary Search Tree to simulate picking people for the Hunger Games and duels that occurs during the Hunger Games.
+**HungerGames:**  Implements a Binary Search Tree to simulate picking people for the Hunger Games and duels that occur during the Hunger Games.
 
 **RUHungry:** Uses hashtables to keep tracks of the menu, stock, transactions of a restaurant.
 
