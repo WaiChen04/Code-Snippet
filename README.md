@@ -44,3 +44,7 @@ To run through the terminal:
 
 **RUHungry:** Uses hashtables to keep tracks of the menu, stock, transactions of a restaurant.
 
+## Python
+
+Run through an Anaconda environment and use Jupyter Notebook
+
